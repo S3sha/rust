@@ -1,0 +1,2 @@
+# rust
+simple guessing game :)
