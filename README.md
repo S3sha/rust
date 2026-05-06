@@ -1,2 +1,2 @@
 # rust
-simple guessing game :)
+rust stuff :)
