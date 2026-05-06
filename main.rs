@@ -1,3 +1,4 @@
+// Really bad AI that is not usefull at all ,have fun
 use rand::Rng;
 use std::io;
 use std::thread;
